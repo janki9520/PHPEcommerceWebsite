@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+.navigation{
+	background: #000000;
+}
+
+.collapse.navbar-collapse ul li a {
+	color: #FFFFFF;
+}
+
+.brand{
+	color: white;
+}
+
+.collapse.navbar-collapse ul li a:hover {
+	background:#D3D3D3; 
+}
+
+.dropdown ul.dropdown-menu li{
+	background: black;
+}
+
+.dropdown ul.dropdown-menu li a:hover{
+	background:#BA4D4F; 
+}
+
+.brand{
+	color:aliceblue;
+}
+
+h4{
+	font-weight: bold;
+}
